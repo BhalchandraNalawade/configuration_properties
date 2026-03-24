@@ -1,1 +1,1 @@
-msg : Welcome to MicroServices.......!!!!!
+spring.profiles.active=dev
